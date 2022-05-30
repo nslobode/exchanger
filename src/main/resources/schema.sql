@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS conversion (
+  id VARCHAR(10) NOT NULL,
+  rate NUMERIC(18, 10),
+  margin NUMERIC(18, 10),
+  PRIMARY KEY(id)
+  );

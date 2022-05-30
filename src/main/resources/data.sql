@@ -1,0 +1,1 @@
+INSERT INTO conversion VALUES ('eurgbp', 2.0, 1.2375);
